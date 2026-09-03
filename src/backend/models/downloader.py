@@ -7,7 +7,9 @@ except ImportError:
     tqdm = None
 
 # Base URL for the GitHub Release containing the models
-GITHUB_RELEASE_URL = "https://github.com/Gfgf96/DSL-Learning/releases/download/v0.1.0/"
+GITHUB_RELEASE_URL = (
+    "https://github.com/alex-krasnoshtanov/DSL-Learning/releases/download/v0.1.0/"
+)
 
 MODELS = {
     "static/best_model.pth": "static_best_model.pth",

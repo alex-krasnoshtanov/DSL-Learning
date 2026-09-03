@@ -1,7 +1,7 @@
 site_name: DSL Learning Documentation
 site_author: Alex Krasnoshtanov
-repo_url: https://github.com/Gfgf96/DSL-Learning
-repo_name: Gfgf96/DSL-Learning
+repo_url: https://github.com/alex-krasnoshtanov/DSL-Learning
+repo_name: alex-krasnoshtanov/DSL-Learning
 
 theme:
   name: material

@@ -42,6 +42,6 @@ The project leverages GitHub Actions for CI/CD. The workflows can be found in `.
 Since the image is automatically pushed to `ghcr.io`, anyone (or any deployment platform like Google Cloud Run or Render) can pull and run the application:
 
 ```bash
-docker pull ghcr.io/gfgf96/dsl-learning:latest
-docker run -p 8000:8000 ghcr.io/gfgf96/dsl-learning:latest
+docker pull ghcr.io/alex-krasnoshtanov/dsl-learning:latest
+docker run -p 8000:8000 ghcr.io/alex-krasnoshtanov/dsl-learning:latest
 ```

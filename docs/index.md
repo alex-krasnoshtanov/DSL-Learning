@@ -3,7 +3,7 @@
 Welcome to the documentation for the **DSL Learning** project! This application is designed to help users learn the NGT (Nederlandse Gebarentaal / Dutch Sign Language) alphabet using real-time computer vision and deep learning.
 
 ## Quick Links
-- [GitHub Repository](https://github.com/Gfgf96/DSL-Learning)
+- [GitHub Repository](https://github.com/alex-krasnoshtanov/DSL-Learning)
 - [Deployment Guide](deployment.md)
 
 ## Application Overview

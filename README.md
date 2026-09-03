@@ -116,7 +116,7 @@ If you prefer manual installation or the automated script doesn't work for you:
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/Gfgf96/DSL-Learning.git
+   git clone https://github.com/alex-krasnoshtanov/DSL-Learning.git
    cd DSL-Learning
    ```
 
@@ -415,7 +415,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # Clone your fork
-   git clone https://github.com/Gfgf96/DSL-Learning.git
+   git clone https://github.com/alex-krasnoshtanov/DSL-Learning.git
    cd DSL-Learning
 
 # Install dependencies (uv syncs the dev group by default)
@@ -451,7 +451,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Alex Krasnoshtanov** - [@Gfgf96](https://github.com/Gfgf96)
+- **Alex Krasnoshtanov** - [@alex-krasnoshtanov](https://github.com/alex-krasnoshtanov)
 
 ## Acknowledgments
 
@@ -463,7 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/Gfgf96/DSL-Learning/issues)
+- **Issues**: [GitHub Issues](https://github.com/alex-krasnoshtanov/DSL-Learning/issues)
 - **Email**: Contact via GitHub profile
 
 ## Star the Project
